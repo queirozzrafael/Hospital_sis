@@ -1,0 +1,10 @@
+a {
+    text-decoration: none; /* Remove o sublinhado do link */
+}
+
+/* Ajustar o link para ser um bloco com 100% de altura e largura */
+.card-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+}

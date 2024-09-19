@@ -1,0 +1,34 @@
+body {
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-container {
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.llcontainer {
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+    padding: 20px;
+    background-color: #0d6efd;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pict{
+    width: 150px;
+    height: 150px;
+}
